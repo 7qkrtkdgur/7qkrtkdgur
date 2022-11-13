@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?text=Hi!!👋&type=waving&color=timeGradient&height=250&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?text=Hi👋&type=waving&color=timeGradient&height=250&fontAlign=80)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7qkrtkdgur&theme=tokyonight)](https://git.io/streak-stats)
 
